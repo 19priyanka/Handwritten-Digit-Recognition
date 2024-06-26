@@ -14,3 +14,11 @@ Overall, the project successfully implemented and compared three different machi
 # Files to Download: 
 In order to run the google collab notebook successfully, please ensure you download the testing & training datasets, which are called "mnist.train"  and "mnist.test" from the google drive [found here: https://drive.google.com/drive/folders/1zQDmYtzk8F0WWuujj_U748AwjGLm4SZn?usp=sharing]. These files need to be uploaded on the google notebook so that the code can run properly. It may take quite a while (typically the runtime has been around 13ish minutes since its a very large dataset).
 
+The google drive contains the video presentation the code we used for our dataset as well as code for "visualizer". The visualizer is the code for our frontend and backend and I could not attach it to this because the file size is too big since it contains saved files of the 3 models we trained which are big. Once the visualizer is downloaded, the instructions to run both the frontend and backend are in the "README" file. We have also demonstrated our app in the video.
+
+
+_Youtube_Video_
+https://youtu.be/TbAjnlTfCkQ
+
+
+
