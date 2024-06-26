@@ -8,3 +8,9 @@ The project compares the complexity, performance, pre-processing requirements, a
 Results show that the Random Forest Classifier achieved an accuracy of 0.9705 and an F1 score of 0.9702, while SVM reached an accuracy of 0.9792 and an F1 score of 0.9791. The CNN demonstrated the highest accuracy, with 0.9855 in the third epoch, and a loss of 0.0492.
 
 Overall, the project successfully implemented and compared three different machine learning models for handwritten digit recognition, with the CNN emerging as the most accurate classifier among the three. The document serves as a comprehensive study of the models' capabilities and their performance on the MNIST dataset.
+
+
+
+# Files to Download: 
+In order to run the google collab notebook successfully, please ensure you download the testing & training datasets, which are called "mnist.train"  and "mnist.test" from the google drive [found here: https://drive.google.com/drive/folders/1zQDmYtzk8F0WWuujj_U748AwjGLm4SZn?usp=sharing]. These files need to be uploaded on the google notebook so that the code can run properly. It may take quite a while (typically the runtime has been around 13ish minutes since its a very large dataset).
+
