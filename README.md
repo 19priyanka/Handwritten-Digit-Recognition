@@ -1,4 +1,4 @@
-# Handwritten-Digits-ML-Model
+# Handwritten Digit Recognition
 The project focuses on creating models to predict handwritten digits using the MNIST dataset, which consists of 60,000 training examples and 10,000 test examples of size-normalized and centered digits.
 
 The project explores three classifier models: Random Forest Classifier, Support Vector Machines (SVM), and Neural Networks (specifically, a Convolutional Neural Network, CNN). The Random Forest Classifier, an ensemble learning method, is praised for its accuracy, versatility, and ease of use without parameter tuning, but it is criticized for being time-consuming and memory-intensive. SVM, a supervised learning algorithm, is noted for its memory efficiency and good performance on the MNIST dataset with proper hyperparameter tuning (C: Regularization and Gamma: Inverse width of Gaussian kernel), but it requires careful pre-processing and parameter tuning. The CNN is highlighted for its feature learning capabilities and performance but is considered complex and resource-intensive.
